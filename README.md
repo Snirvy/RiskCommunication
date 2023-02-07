@@ -1,5 +1,3 @@
-# RiskCommunication
-Risk Communication
 
 ## Navigation
 
