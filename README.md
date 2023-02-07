@@ -18,6 +18,7 @@ Achieving statistical lliteracy
 [Sensationalism and Transparency](Sensationalism-Transparency.md)
 
 [Risk literacy HIV example](HIV-example.md)
+  - [Natural Frequency Tree](NaturalFrequencyTree.md)
 
 [Peoples belief in certainty](PeoplesBelief.md)
 
