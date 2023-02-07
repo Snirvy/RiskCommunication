@@ -21,4 +21,4 @@
 - Doing two tests for second opinion (one high sensitivity, one high specificity)
 
 ### So, do we have HIV?
-[[Natural frequency tree]]
+[Natural frequency tree](NaturalFrequencyTree.md)
