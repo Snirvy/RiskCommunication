@@ -27,4 +27,4 @@ Achieving statistical lliteracy
 
 Housekeeping
 Lectures first half
-Project second half ([Solo project](SoloProject.md)
+Project second half ([Solo project](SoloProject.md))
