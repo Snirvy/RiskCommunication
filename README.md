@@ -23,6 +23,7 @@ Achieving statistical lliteracy
 
 [Lecture 1 Summary](Lecture-1-Summary.md)
 
-Housekeeping
-Lectures first half
-Project second half ([Solo project](SoloProject.md))
+#### Housekeeping
+- Lectures first half
+
+- Project second half ([Solo project](SoloProject.md))
